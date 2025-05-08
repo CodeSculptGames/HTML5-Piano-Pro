@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "HTML5 Piano Pro is a beautifully designed, interactive web-based piano that lets you play, record, and explore music right from your browser. Built for musicians, creators, and casual users alike, it features a responsive keyboard, playback controls, tempo adjustment, and MIDI file support — all wrapped in a sleek, immersive UI",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "HTML5 Piano Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "HTML5 Piano Pro",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "HTML5 Piano Pro",
+      "url": "",
+      "description": "HTML5 Piano Pro is a beautifully designed, interactive web-based piano that lets you play, record, and explore music right from your browser. Built for musicians, creators, and casual users alike, it features a responsive keyboard, playback controls, tempo adjustment, and MIDI file support — all wrapped in a sleek, immersive UI."
+    }
+  ]
+}
